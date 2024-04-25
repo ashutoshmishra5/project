@@ -4,7 +4,7 @@ import Image from "next/image";
 import { useState } from "react";
 
 
-const emailmanagement = () => {
+const Emailmanagement = () => {
   const [tableOpen,setTableOpen] = useState(false);
 
   const toggleTable = () => {
@@ -221,4 +221,4 @@ const emailmanagement = () => {
     );
 };
 
-export default emailmanagement;
+export default Emailmanagement;
