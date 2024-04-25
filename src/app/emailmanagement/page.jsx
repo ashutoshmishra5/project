@@ -32,7 +32,7 @@ const emailmanagement = () => {
           <h1 className="text-md">By Alex • Updated July 2, 2023</h1>
         </div>
         <div className="mt-4">
-          <p>Do you find it difficult to keep on top of your email inbox? If so, you'll want to check out our selection of the best email management courses below.</p>
+          <p>Do you find it difficult to keep on top of your email inbox? If so, you&lsquo;ll want to check out our selection of the best email management courses below.</p>
         </div>
         <div className="mt-2">
           <p>These courses will teach you how to reach inbox zero and reduce the time spent on dealing with emails.</p>
@@ -126,7 +126,7 @@ const emailmanagement = () => {
         </ul>
       </div>
       <div>
-        <p className="pb-4">This course explains the concepts of "Taming Your Inbox" which include how you manage email, your thought process and mindset when dealing with email, and email habits you may have had for years and how these affect productivity.</p>
+        <p className="pb-4">This course explains the concepts of &quot;Taming Your Inbox&quot; which include how you manage email, your thought process and mindset when dealing with email, and email habits you may have had for years and how these affect productivity.</p>
       </div>
       
       <h2 className="mt-8 font-semibold text-4xl mb-4">5. <a className=" underline decoration-gray-700 decoration-1" href="https://stephaniepellett.com/inboxzero/">Inbox Zero 101 by Stephanie Pellet</a></h2>
@@ -151,7 +151,7 @@ const emailmanagement = () => {
       <ul className="list-disc ml-8 mt-4">
         <li>How to set boundaries around your time &amp; energy, and create processes for managing incoming messages.</li>
         <li>Great apps, tips and resources for managing incoming messages on an ongoing basis.</li>
-        <li>Learn the nitty-gritty of re-evaluating what you're letting in, and how to filter, sort &amp; manage your mail.</li>
+        <li>Learn the nitty-gritty of re-evaluating what you&lsquo;re letting in, and how to filter, sort &amp; manage your mail.</li>
         <li>Adopting new strategies for reducing the number of emails you receive.</li>
       </ul>
       <div>
